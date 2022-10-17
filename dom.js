@@ -22,6 +22,5 @@ console.log(x.textContent);
 console.log(x.innerText);
 x.innerHTML = '<h3>hello</h3>';
 y.style.borderBottom = 'solid 3px #000';
-const z = document.getElementById('h2');
-console.log(z);
-console.log(document.all);
+
+
